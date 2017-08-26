@@ -18,7 +18,7 @@ using ASF.Services.Contracts;
 namespace ASF.Services.Http
 {
     /// <summary>
-    /// Category HTTP service controller.
+    /// Category HTTP service controller. Nuevo
     /// </summary>
     [RoutePrefix("rest/Category")]
     public class CategoryService : ApiController
